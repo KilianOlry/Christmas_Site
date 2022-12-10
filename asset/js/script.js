@@ -25,11 +25,12 @@
 
 //REMOVE MENU MOBILE
 
-    const navLink = document.querySelectorAll('.nav__link'),
-          linkAction = () =>{
+    const navLink = document.querySelectorAll('.nav__link')
+    const linkAction = () =>{
         const navMenu = document.getElementById('ID-nav-menu')
         //When we click on each nav--link, we remove the show-menu
         navMenu.classList.remove('show-menu')
     }
+    navLink.forEach(n => n.addEventListener('click', linkAction))
 
     
