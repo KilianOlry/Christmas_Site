@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Les particularités sont les effets au scroll que j'ai réalisé grâce au bibliothèque suivante :</h3>
+<h3 align="left">Les particularités sont les effets au scroll que j'ai réalisé grâce aux librairies suivante :</h3>
 
 ###
 
